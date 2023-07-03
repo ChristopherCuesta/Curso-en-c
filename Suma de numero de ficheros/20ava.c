@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Escribir un programa que lea un fichero llamado números.txt que contiene
-una lista de números (uno en cada fila) y devuelva la suma de dichos números.*/
+/*Escribir un programa que lea un fichero llamado numeros.txt que contiene
+una lista de numeros (uno en cada fila) y devuelva la suma de dichos numeros.*/
 
 int main()
 {

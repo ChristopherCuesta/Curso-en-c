@@ -22,7 +22,7 @@ int main()
 
     printf("Codigo del articulo: %d\n", prod->codigo);
     printf("Descripcion: %s\n", prod->descripcion);
-    printf("Precio: %f\n", prod->precio);
+    printf("Precio: %.2f\n", prod->precio);
 
     free(prod);
     prod = NULL;
